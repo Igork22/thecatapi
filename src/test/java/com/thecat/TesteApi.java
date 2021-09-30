@@ -35,7 +35,7 @@ public class TesteApi extends MassaDeDados {
 
     @Test
     public void deletaVotacao() {
-        votacao();
+        votacao(); 
         deletaVoto();
     }
 
